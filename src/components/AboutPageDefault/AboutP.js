@@ -56,7 +56,7 @@ export const AboutP = () => {
           <h3 className="lsa">One Team, Many Talents</h3>
         </div>
         <div className="imgTag">
-          <img src={AboutW} alt="" />
+          <img src={AboutW} alt="" /> 
         </div>
       </div>
 
