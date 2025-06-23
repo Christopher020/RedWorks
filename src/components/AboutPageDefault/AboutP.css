@@ -42,6 +42,10 @@
     margin: 0 auto;
     gap: 100px;
 }
+.con .imgTag img{
+    width: 500px;
+    height: 700px;
+}
 .red {
     color: red;
     font-size: 25px;

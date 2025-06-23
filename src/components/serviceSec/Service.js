@@ -32,10 +32,10 @@ const Service = () => {
       transition={{ duration: 5 }} // Adjust the duration as needed
     >
       <div className="aboutContainer">
-        <h1>Services</h1>
+        <h1>What We Do Best</h1>
         <hr />
         <p>
-        Our business is open to all and sundry; Federal Government, State Government and Local Government.
+        At Redworks, we offer a comprehensive suite of construction and infrastructure services tailored to meet diverse project needs. From ground-up builds to structural renovations, we deliver precision, durability, and performance at every phase.
         </p>
         <div className="aboutChildHolder">
             <div className="aboutChild">
@@ -44,9 +44,9 @@ const Service = () => {
                     <div className="iconHold">
                         <MdOutlineSignalCellularAlt size={30} style={{ color: 'red' }} />
                     </div>
-                    <h4>Clearing & Delivery of Ship -Spares in-transit</h4>
+                    <h4>Building Construction</h4>
                     <p>
-                    As protective agents we ensure that your interests are well taken care of. This helps you avoid any conflict of interest that may arise with many stakeholders involved in a port call.
+                    We design and construct residential, commercial, and institutional buildings with attention to strength, style, and sustainability.
                     </p>
                 </div>
             </div>
@@ -56,9 +56,9 @@ const Service = () => {
                     <div className="iconHold">
                         <IoSunnySharp size={30} style={{ color: 'red' }} />
                     </div>
-                    <h4>Protective Agency</h4>
+                    <h4>Road & Highway Construction</h4>
                     <p>
-                    Our ship agent provides shippers or forwarding agents with transport services and is responsible for facilitating transport for the ship.
+                    From local roads to major highways, we build durable, well-engineered surfaces optimized for long-term use and safety.
                     </p>
                 </div>
           </div>
@@ -69,9 +69,9 @@ const Service = () => {
                     <div className="iconHold">
                         <FaCalendarAlt size={30} style={{ color: 'red' }} />
                     </div>
-                    <h4>Consultancy Services</h4>
+                    <h4>Civil Engineering Works</h4>
                     <p>
-                    We have the expertise to advice and suggest better trade routes and address other necessary shipping concerns to individuals and corporations engaged in the marine business to help them boost, advance and further their business positively.
+                    We handle drainage systems, culverts, embankments, and all civil infrastructure with technical excellence and compliance.
                     </p>
                 </div>
             </div>
@@ -83,9 +83,9 @@ const Service = () => {
                     <div className="iconHold">
                         <MdOutlineSignalCellularAlt size={30} style={{ color: 'red' }} />
                     </div>
-                    <h4>Supply of Bunkers</h4>
+                    <h4>Project Management</h4>
                     <p>
-                    Our supply bunkers service guarantees timely and reliable delivery of fuel to vessels worldwide, with strict adherence to environmental regulations and safety standards, and a commitment to customer satisfaction.
+                    End-to-end project oversight, ensuring your timelines, budgets, and quality expectations are met without compromise.
                     </p>
                 </div>
             </div>
@@ -95,9 +95,9 @@ const Service = () => {
                     <div className="iconHold">
                         <IoSunnySharp size={30} style={{ color: 'red' }} />
                     </div>
-                    <h4>Vessel Brokerage</h4>
+                    <h4>Renovation & Remodeling</h4>
                     <p>
-                    Our vessel brokerage services connect buyers and sellers worldwide, providing customized solutions to meet their unique needs, supported by our industry expertise and market knowledge.
+                    We modernize and enhance existing structures, restoring functionality and improving aesthetics without disrupting core integrity.
                     </p>
                 </div>
           </div>
@@ -108,9 +108,9 @@ const Service = () => {
                     <div className="iconHold">
                         <FaCalendarAlt size={30} style={{ color: 'red' }} />
                     </div>
-                    <h4>Ship Husbanding</h4>
+                    <h4>Structural Design & Engineering</h4>
                     <p>
-                    Our ship husbanding services provide comprehensive support to vessels while in port, from maintenance and repair to crew welfare and provisions, ensuring smooth operations and maximum efficiency.
+                    Our in-house engineers provide safe, code-compliant designs for new builds and complex structural systems.
                     </p>
                 </div>
             </div>
@@ -122,9 +122,9 @@ const Service = () => {
                     <div className="iconHold">
                         <MdOutlineSignalCellularAlt size={30} style={{ color: 'red' }} />
                     </div>
-                    <h4>Crew Changes</h4>
+                    <h4>Land Surveying & Site Analysis</h4>
                     <p>
-                    Our crew change services ensure seamless and timely transitions for crew members, including immigration clearance, transport, accommodation, and logistics, with strict adherence to international regulations and protocols.
+                    We conduct detailed site assessments and mapping to inform smart, data-driven project decisions.
                     </p>
                 </div>
             </div>
@@ -134,9 +134,9 @@ const Service = () => {
                     <div className="iconHold">
                         <IoSunnySharp size={30} style={{ color: 'red' }} />
                     </div>
-                    <h4>Managing the Interface between Owners/Managers with Government Agencies</h4>
+                    <h4>Real Estate Development</h4>
                     <p>
-                    Our interface management services facilitate smooth communication and coordination between owners/managers and government agencies, ensuring compliance with regulations, minimizing risks, and optimizing operations.
+                    We develop residential and commercial properties from planning to execution, ensuring value and livability.
                     </p>
                 </div>
           </div>
@@ -147,9 +147,9 @@ const Service = () => {
                     <div className="iconHold">
                         <FaCalendarAlt size={30} style={{ color: 'red' }} />
                     </div>
-                    <h4>Clearing & Delivery of Ship-Spares in-transit</h4>
+                    <h4>Pre-Construction Consulting</h4>
                     <p>
-                    Our ship-spare delivery service provides timely and efficient customs clearance and delivery of ship-spares in-transit, minimizing delays and optimizing vessel operations, with a focus on reliability and customer satisfaction.
+                    We help clients plan smarter with feasibility studies, budgeting, and technical guidance before ground is broken.
                     </p>
                 </div>
             </div>

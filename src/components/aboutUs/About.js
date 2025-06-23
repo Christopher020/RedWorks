@@ -1,63 +1,74 @@
-import React from 'react'
-import "./About.css"
+import React from 'react';
+import "./About.css";
 import { MdOutlineSignalCellularAlt } from 'react-icons/md';
 import { FaCalendarAlt } from 'react-icons/fa';
 import { IoSunnySharp } from 'react-icons/io5';
-import {Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 const About = () => {
   return (
-    <div class="thi-page">
-      <div class="thi-container">
-        <div class="thi-con">
-          <div class="thi-divs">
+    <div className="thi-page">
+      <div className="thi-container">
+        <div className="thi-con">
+          <div className="thi-divs">
             <h5>About Us</h5>
-            <h1>One Stop Maritime And Logistic Services Company.</h1>
-            <p>Our business is open to all and sundry; Federal Government, State Government and Local Government. We are open to medium- and short-term contracts, including one-offs, for medium- to small-scale industries and individuals alike. We are a one-stop maritime and logistics services company.</p>
-            
-            <Link to="AboutPage" className='btn'>
+            <h1>Engineering Excellence That Stands the Test of Time</h1>
+            <p>
+              At <strong>Redworks</strong>, we’re redefining land-based construction with a commitment to quality, integrity, and innovation. 
+              We serve government, corporate, and private clients, delivering tailored construction solutions that range from infrastructure development 
+              to industrial and residential projects. Our work is grounded in trust, driven by experience, and built to last.
+            </p>
+
+            <Link to="AboutPage" className="btn">
               Learn More
             </Link>
           </div>
-          <div class="first-3">
+          <div className="first-3">
             <div className="first-3-half1">
               <div className="sec1">
                 <div className="iconH">
-                  <MdOutlineSignalCellularAlt className='icn' size={30}  />
+                  <MdOutlineSignalCellularAlt className="icn" size={30} />
                 </div>
                 <h2>Mission</h2>
-                <p>Our mission is to provide our customers with reliable, efficient, and cost-effective maritime and logistics solutions.</p>
-                
+                <p>
+                  To construct sustainable, high-quality structures that meet evolving needs and improve communities—one foundation at a time.
+                </p>
               </div>
               <div className="sec1">
                 <div className="iconH">
-                  <IoSunnySharp className='icn' size={30}  />
+                  <IoSunnySharp className="icn" size={30} />
                 </div>
                 <h2>Vision</h2>
-                <p>To be the leading provider of comprehensive and innovative maritime and logistics services in the industry.</p>
+                <p>
+                  To become the go-to name in reliable, modern construction solutions across Nigeria and beyond.
+                </p>
               </div>
             </div>
             <div className="first-3-half2">
               <div className="sec2">
                 <div className="iconH">
-                  <IoSunnySharp className='icn'  size={30}  />
+                  <IoSunnySharp className="icn" size={30} />
                 </div>
                 <h2>Plan</h2>
-                <p>We strive to achieve this by leveraging on our expertise, cutting-edge technology, and dedicated team to deliver exceptional services that meet and exceed our customers’ needs.</p>
+                <p>
+                  We plan with purpose—strategically aligning every project with client goals, efficient execution, and long-term impact.
+                </p>
               </div>
               <div className="sec2">
                 <div className="iconH">
-                  <FaCalendarAlt className='icn'  size={30}  />
+                  <FaCalendarAlt className="icn" size={30} />
                 </div>
                 <h2>Strength</h2>
-                <p>We are committed to building lasting relationships with our customers, employees, and stakeholders, and to conducting our business with the highest level of integrity and professionalism.</p>
+                <p>
+                  Our strength lies in a diverse team of experts, robust project management systems, and a culture of continuous improvement.
+                </p>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default About
+export default About;

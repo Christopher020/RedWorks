@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './SpinT.css';
-import spin from '../../assets/dantsoho.png';
+import spin from '../../assets/redworks.jpeg';
 
 function SpinT() {
   const [rotationAngle, setRotationAngle] = useState(0);

@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className="div0">
                     <div className="iconC"><FaEnvelope  className='iconF' /></div>
                     <div className="divA"> 
-                        <h2>info@dantsho.com</h2>
+                        <h2>info@redworks</h2>
                         <p>Drop Us a Line</p>
                     </div>
                 </div>
@@ -33,7 +33,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div className="lastF">Copyright 2024 Dantsoho, All rights reserved.</div>
+            <div className="lastF">Copyright 2025 Redworks, All rights reserved.</div>
         </div>
     </footer>
   )

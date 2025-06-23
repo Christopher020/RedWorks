@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link as ScrollLink, animateScroll as scroll } from 'react-scroll';
 import { Link as RouterLink, useLocation } from 'react-router-dom';
-import { IoChevronBackSharp } from 'react-icons/io';
+// import { IoChevronBackSharp } from 'react-icons/io';
 import "./Navbar.css";
 import spin from '../../assets/redworks.jpeg';
 
@@ -65,7 +65,7 @@ const Navbar = () => {
                         <RouterLink to="/">Contact Us</RouterLink>
                     )}
                 </li>
-                <li className="nav__item"><RouterLink to="/FoundationPage">Foundation</RouterLink></li>
+                {/* <li className="nav__item"><RouterLink to="/FoundationPage">Foundation</RouterLink></li> */}
             </ul>
             <div onClick={navToggle} className={toggleIcon}>
                 <div className="line1"></div>

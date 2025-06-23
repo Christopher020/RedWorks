@@ -45,11 +45,13 @@
     margin-bottom: 1rem;
 }
 .aboutContainer p {
-    font-size: 22px;
+    font-size: 19px;
     font-weight: 350;
     text-align: center;
     margin-bottom: 3rem;
     margin-top: 2rem;
+    line-height: 30px;
+    color: gray;
 }
 .aboutChildHolder {
     width: 90%;
@@ -75,40 +77,40 @@
 }
 .aboutChild .childTop {
     height: 250px;
-    background: url('../../assets/water.jpg') no-repeat center center/cover;
+    background: url('../../assets/building-construction.webp') no-repeat center center/cover;
 }
 .aboutChild .childTop1 {
     height: 250px;
-    background: url('../../assets/ship.jpg') no-repeat center center/cover;
+    background: url('../../assets/Road\ &\ Highway.jpg') no-repeat center center/cover;
 }
 .aboutChild .childTop2 {
     height: 250px;
-    background: url('../../assets/cytonn-photography-scaled.jpg') no-repeat center center/cover;
+    background: url('../../assets/Civil\ Engineering.webp') no-repeat center center/cover;
     margin-right: 1rem;
 }
 .aboutChild .childTop3 {
     height: 250px;
-    background: url('../../assets/container.jpg') no-repeat center center/cover;
+    background: url('../../assets/Project-Mgt.jpg') no-repeat center center/cover;
 }
 .aboutChild .childTop4 {
     height: 250px;
-    background: url('../../assets/vessel-brokrage-scaled.jpg') no-repeat center center/cover;
+    background: url('../../assets/Renovation&Remodeling.webp') no-repeat center center/cover;
 }
 .aboutChild .childTop5 {
     height: 250px;
-    background: url('../../assets/ship-2-scaled.jpg') no-repeat center center/cover;
+    background: url('../../assets/Structural\ Design.jpg') no-repeat center center/cover;
 }
 .aboutChild .childTop6 {
     height: 250px;
-    background: url('../../assets/Ship-3-scaled.jpg') no-repeat center center/cover;
+    background: url('../../assets/Land\ Surveying\ &\ Site\ Analysis.jpg') no-repeat center center/cover;
 }
 .aboutChild .childTop7 {
     height: 250px;
-    background: url('../../assets/Business-scaled.jpg') no-repeat center center/cover;
+    background: url('../../assets/REAL-ESTATE-DEVELOPMENT-scaled.jpg') no-repeat center center/cover;
 }
 .aboutChild .childTop8 {
     height: 250px;
-    background: url('../../assets/ruben-bagues-wplxPRCF7gA-unsplash-scaled.jpg') no-repeat center center/cover;
+    background: url('../../assets/preconstruction-consulting.jpg') no-repeat center center/cover;
 }
 .aboutChild .childBottom {
     margin-right: 1rem;
