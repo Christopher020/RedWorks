@@ -1,6 +1,6 @@
 {
-  "homepage": "http://Greig-Technologies-Limited.github.io/Dantsoho",
-  "name": "dantsoho",
+  "homepage": ".",
+  "name": "redworks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
