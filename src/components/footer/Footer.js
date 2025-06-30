@@ -14,7 +14,7 @@ const Footer = () => {
               <FaEnvelope className="iconF" />
             </div>
             <div className="divA">
-              <h2>info@redworks</h2>
+              <h2>info@redworksltd.com</h2>
               <p>Drop Us a Line</p>
             </div>
           </div>

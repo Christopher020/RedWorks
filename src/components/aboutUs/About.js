@@ -31,7 +31,7 @@ const About = () => {
                 </div>
                 <h2>Mission</h2>
                 <p>
-                  To construct sustainable, high-quality structures that meet evolving needs and improve communities—one foundation at a time.
+                  To provide sustainable, high-quality services that meet evolving needs in the oil/gas and the construction industry and improve communities—one foundation at a time.
                 </p>
               </div>
               <div className="sec1">
@@ -40,7 +40,7 @@ const About = () => {
                 </div>
                 <h2>Vision</h2>
                 <p>
-                  To become the go-to name in reliable, modern construction solutions across Nigeria and beyond.
+                  To become the go-to name in reliable, modern construction and oil/gas solutions across Nigeria and beyond.
                 </p>
               </div>
             </div>

@@ -95,9 +95,9 @@ const Service = () => {
                     <div className="iconHold">
                         <IoSunnySharp size={30} style={{ color: 'red' }} />
                     </div>
-                    <h4>Renovation & Remodeling</h4>
+                    <h4>Oil & Gas Construction Solutions</h4>
                     <p>
-                    We modernize and enhance existing structures, restoring functionality and improving aesthetics without disrupting core integrity.
+                    We design and build vital oil and gas infrastructure, ensuring reliable operations, safety, and regulatory compliance without compromising efficiency or environmental integrity.
                     </p>
                 </div>
           </div>
