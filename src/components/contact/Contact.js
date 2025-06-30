@@ -10,7 +10,7 @@ const Contact = () => {
         <hr />
         <div className="contactContentHold">
           <div className="contactDetails">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.534667053161!2d3.3846915776938338!3d6.453727076875187!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8b11de11c53b%3A0x8d3e2dca80ed48ca!2sWestern%20House%2C%20Broad%20St%2C%20Lagos%20Island%2C%20Lagos%20102273%2C%20Lagos!5e0!3m2!1sen!2sng!4v1706716742090!5m2!1sen!2sng" width="600" height="450" style={{ border: "0" }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" className='map'></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.4089419141615!2d3.353727610676727!3d6.595990293370248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b923903a14b7b%3A0xfef97a54b9ec974b!2s10%20Anuoluwapo%20Cl%2C%20Allen%2C%20Ikeja%20101233%2C%20Lagos!5e0!3m2!1sen!2sng!4v1751288411007!5m2!1sen!2sng" width="600" height="450" style={{ border: "0" }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" className='map'></iframe>
           </div>
           <form action="https://formspree.io/f/xqkraplo" method="POST">
             <div className='firstRow'>
